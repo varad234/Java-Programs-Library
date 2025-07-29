@@ -17,6 +17,12 @@
 ```bash
 javac FileName.java
 
-### Run:
-```bash
 java FileName
+
+---
+
+📌 **How to do it:**
+1. Open terminal or Git Bash.
+2. Run:
+   ```bash
+   code README.md
