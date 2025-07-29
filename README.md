@@ -16,3 +16,6 @@
 ### Compile:
 ```bash
 javac FileName.java
+### Run:
+```bash
+java FileName
