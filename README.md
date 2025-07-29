@@ -1,7 +1,7 @@
 # Java Programs Library
 
 **Name:** Varad Patil  
-**Roll Number:** 12345678
+**Roll Number:** 2203018
 
 ## 📘 List of Programs
 
@@ -13,6 +13,10 @@
 
 ## 🛠️ How to Compile and Run
 
-### Compile:
+### Compile & Run:
 ```bash
 javac FileName.java
+
+java FileName
+
+
